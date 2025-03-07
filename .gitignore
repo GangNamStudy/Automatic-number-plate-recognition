@@ -1,0 +1,12 @@
+ultralytics*/
+wandb/
+Korea-Car-License-Plate*/
+venv*/
+wandb*/
+inference_result*/
+/src/recognition/train2.py
+logs/
+resources/
+src/ckpt/
+src/utils/version_check.py
+src/utils/wandb_configure.py
