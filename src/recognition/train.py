@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import torch
 
-ckpt_path = "C:/Users/chang/Desktop/cv/gangnam/Automatic-number-plate-recognition/src/ckpt/yolo11n.pt"
+ckpt_path = "./src/ckpt/yolo11n.pt"
 model = YOLO(ckpt_path)
 
 def train():
